@@ -1,0 +1,14 @@
+C:\Users\Stephen\workspaces\coding_challenges_api\bin\Debug\netcoreapp2.1\coding_challenges_api.deps.json
+C:\Users\Stephen\workspaces\coding_challenges_api\bin\Debug\netcoreapp2.1\coding_challenges_api.runtimeconfig.json
+C:\Users\Stephen\workspaces\coding_challenges_api\bin\Debug\netcoreapp2.1\coding_challenges_api.runtimeconfig.dev.json
+C:\Users\Stephen\workspaces\coding_challenges_api\bin\Debug\netcoreapp2.1\coding_challenges_api.dll
+C:\Users\Stephen\workspaces\coding_challenges_api\bin\Debug\netcoreapp2.1\coding_challenges_api.pdb
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.csprojAssemblyReference.cache
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.RazorAssemblyInfo.cache
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.RazorAssemblyInfo.cs
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.AssemblyInfoInputs.cache
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.AssemblyInfo.cs
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.RazorTargetAssemblyInfo.cache
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.dll
+C:\Users\Stephen\workspaces\coding_challenges_api\obj\Debug\netcoreapp2.1\coding_challenges_api.pdb
